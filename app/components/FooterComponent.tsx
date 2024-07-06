@@ -51,7 +51,7 @@ const FooterComponent = () => {
           </span>
         </Link>
         <div className="mt-4 text-silver fs-6">
-          <p>Copyright © 2020 Nexcent ltd.</p>
+          <p>Copyright © 2024 Nexcent ltd.</p>
           <p className="mt-3">All rights reserved</p>
         </div>
         <div className="mt-5 d-flex justify-content-start align-items-start gap-3">
